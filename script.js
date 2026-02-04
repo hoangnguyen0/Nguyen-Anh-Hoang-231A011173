@@ -1,0 +1,1 @@
+console.log('Script chung cho MSSV-231A011173');
